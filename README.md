@@ -8,4 +8,4 @@ A Bash script for port scanning and network reconnaissance.
 
 ## Usage
 ```bash
-./run.sh 192.168.1.1 -p 80 -e 100
+./spiderport.sh 192.x.x.x -p 80 -e 100
