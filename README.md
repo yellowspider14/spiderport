@@ -9,7 +9,8 @@ SpiderPort is a bash-based TCP port scanner designed for quick and efficient net
 - Displays results with color-coded output.
 - Saves scan results to a file.
 
-
+#
+![photo_6264633946872594750_x](https://github.com/user-attachments/assets/f18debcd-d2cc-416a-b001-8b96b9ee919a)
 
 ## Usage
 
@@ -17,6 +18,7 @@ SpiderPort is a bash-based TCP port scanner designed for quick and efficient net
 
 chmod +x spiderport.sh
 
+![photo_6264633946872594750_x](https://github.com/user-attachments/assets/f18debcd-d2cc-416a-b001-8b96b9ee919a)
 
 
 ./spiderport.sh 192.x.x.x -p 80 -e 100
