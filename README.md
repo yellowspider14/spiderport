@@ -10,7 +10,7 @@ SpiderPort is a bash-based TCP port scanner designed for quick and efficient net
 - Saves scan results to a file.
 
 
-![photo_6264633946872594746_y](https://github.com/user-attachments/assets/313b7e29-05b7-47b5-8884-86a925838fa0)
+
 ## Usage
 
 ```bash
