@@ -9,3 +9,6 @@ A Bash script for port scanning and network reconnaissance.
 ## Usage
 ```bash
 ./spiderport.sh 192.x.x.x -p 80 -e 100
+
+## install
+ chmod +x spiderport.sh
