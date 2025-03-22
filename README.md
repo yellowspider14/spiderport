@@ -9,11 +9,11 @@ SpiderPort is a bash-based TCP port scanner designed for quick and efficient net
 - Saves scan results to a file.
 
 ## Usage
-
+```bash
 
 chmod +x spiderport.sh
 
-```bash
+
 
 ./spiderport.sh 192.x.x.x -p 80 -e 100
 
